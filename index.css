@@ -183,4 +183,7 @@ footer {
   main .card-img {
     width: 11%;
   }
+  .attribution {
+    font-size: 3vw;
+  }
 }
